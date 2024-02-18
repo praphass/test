@@ -74,7 +74,7 @@ function viewResults3() {
 function gogo() {
   if (localStorage.getItem("loggedIn") === "true") {
   // Redirect to another page
-  window.location.href = 'home.html';
+  window.location.href = 'answer3.html';// 'home.html';
  // Your code to show the answers
  //alert("Showing answers!");
   } 
